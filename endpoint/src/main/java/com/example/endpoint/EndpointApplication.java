@@ -12,6 +12,7 @@ public class EndpointApplication {
 		System.out.println("Iniciando pruebaLocal endpoint App");
 		System.out.println("Iniciando endpoint App");
 		System.out.println("master actualizado");
+		System.out.println("se regresa desde servidor");
 	}
 
 }
