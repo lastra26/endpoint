@@ -9,7 +9,7 @@ public class EndpointApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EndpointApplication.class, args);
-		System.out.println("Iniciando App");
+		System.out.println("Iniciando endPoint App");
 	}
 
 }
