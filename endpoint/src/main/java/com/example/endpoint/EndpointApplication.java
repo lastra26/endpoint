@@ -10,6 +10,7 @@ public class EndpointApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EndpointApplication.class, args);
 		System.out.println("Iniciando pruebaLocal endpoint App");
+		System.out.println("Iniciando endpoint App");
 	}
 
 }
